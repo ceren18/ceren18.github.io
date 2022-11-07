@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: Enise Ceren Şeyhanlıoğlu
+email: seyhanliceren18@gmail.com
+author: ceren18
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -42,10 +42,8 @@ author: GitHub User
 #
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Merhaba kişisel web siteme hoşgeldin. Ben Ceren Boğaziçi Üniversitesi Bilgisayar ve Öğretim Teknolojileri bölümü öğrencisiyim. Bölümüm ingilizce olduğu için iyi seviyede ingilizce bilgisine sahip olacağım aynı zamanda 
+B1 seviyesinde almanca eğitimlerine en yakın zmanda başlamayı düşünüyorum. Hedefim kendimi yazılım sektöründe geliştirmek yazılımda henüz bir alt dala karar verememiş olsamda siber güvenlik, yapay zeka , veri bilimi, data science ve mobil uygulama geliştirme iligimi çeken alanlar. En kısa zaman içinde Almanya erasmus programına başvurup eğitimime Almanya'da devam etmek istiyorum. Hem yazılım geliştirme hemde dil öğrenme odaklı yoğun bir hayatım var. Bazen yorucu olsada bu işle uğraşmayı seviyorum. Bir kadın yazılımcı olarak cinsiyet eşitsizliği ve kadınların da bu sektörde çok iyi olabaliceğini kanıtlamak ve ön yargıları ortadan kaldırmak istiyorum.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
